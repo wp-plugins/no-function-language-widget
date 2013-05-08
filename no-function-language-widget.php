@@ -4,7 +4,7 @@ Plugin Name: No Function Language Widget
 Plugin URI: http://wordpress.org/extend/plugins/no-function-language-widget
 Description: It produces an output of a language changing widget but has no additional features behind it.
 Author: wp-plugin-dev.com
-Version: 1.0
+Version: 1.01
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Author URI: http://www.wp-plugin-dev.com/

@@ -4,7 +4,7 @@ Donate link: http://www.wp-plugin-dev.com/donate
 Tags: language, multilingual, widget, flags
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 1.0
+Stable tag: 1.01
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,5 +46,6 @@ Contact us at http://www.wp-plugin-dev.com/support-contact/
 
 == Changelog ==
 
-1.0 First Version Open Source
+= 1.01 = flag names to lowercase
+= 1.0 = Initial release
 
