@@ -1,5 +1,5 @@
 === No Function Language Widget ===
-Contributors: Theode
+Contributors: theode
 Donate link: http://www.wp-plugin-dev.com/donate
 Tags: language, multilingual, widget, flags
 Requires at least: 3.0
